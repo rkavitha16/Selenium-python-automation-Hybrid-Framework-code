@@ -29,3 +29,5 @@ class BaseDriver():
         elements = wait.until(EC.presence_of_all_elements_located((locator_type,locator)))
         return elements
 
+#"Comments from SDET1"
+#Sample code is printed here"
